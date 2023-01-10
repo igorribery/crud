@@ -1,0 +1,12 @@
+
+.task-header {
+    padding: 10px 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.form-control{
+    width: 50%;
+}
