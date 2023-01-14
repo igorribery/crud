@@ -2,7 +2,7 @@ import { Button, Table } from "react-bootstrap";
 import {useState, useEffect} from 'react'
 import { useNavigate } from 'react-router-dom';
 import api from "../../services/api";
-import Iuser from "../../types/Itask";
+import { Iuser } from "../../types/Itask";
 import './index.css'
 
 const Home = () => {

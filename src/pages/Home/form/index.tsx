@@ -2,7 +2,7 @@ import { Button, Form } from "react-bootstrap";
 import { ChangeEvent, useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import api from "../../../services/api";
-import Iform from "../../../types/Iform";
+import { Iform } from "../../../types/Iform";
 import './index.css'
 
 
