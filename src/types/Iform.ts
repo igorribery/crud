@@ -1,7 +1,5 @@
-interface Iform {
+export interface Iform {
     name: string,
     lastName: string,
     email: string
 }
-
-export default Iform;
